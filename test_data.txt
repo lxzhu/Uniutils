@@ -1,0 +1,3 @@
+Asia	China	Beijing
+Europe	Norway	Oslo
+Europe	Sweden	Stockholm
